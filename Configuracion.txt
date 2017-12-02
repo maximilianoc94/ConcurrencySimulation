@@ -1,0 +1,26 @@
+//Duracion en segundos del Dia
+1
+//Dias para despacho
+30
+//Almacen de Consolas
+20
+//Almacen de Controles
+30
+//Almacen de Paquetes
+40
+//Cantidad inicial de Productores de Consolas
+2
+//Cantidad maxima de Productores de Consolas
+10
+//Cantidad inicial de Productores de Controles
+3
+//Cantidad maxima de Productores de Controles
+5
+//Cantidad inicial de Productores de Paquetes
+1
+//Cantidad maxima de Productores de Paquetes
+3
+//Cantidad inicial de Ensambladores
+1
+//Cantidad maxima de Ensambladores
+4
